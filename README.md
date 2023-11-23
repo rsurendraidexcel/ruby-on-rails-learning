@@ -23,6 +23,10 @@ Are you ready to learn Ruby on Rails. Here is link for ruby on rail Learing
 
 [Rails Web develoment 7](./web-development-rail7.pdf "Rails Web develoment 7")
 
+## SQL Cooks Book
+[SQL Cooks Books](./O-Reilly-SQL-Cookbook-2nd-Edition-Final.pdf "SQL Cooks Books")
+
+
 ## New ways to Write Rails Application 
 
 ## Trurbo Rails
